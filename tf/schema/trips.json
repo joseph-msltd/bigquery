@@ -1,0 +1,20 @@
+[
+  {
+    "name": "year",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "year"
+  },
+  {
+    "name": "weekend",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE",
+    "description": "is weekend?"
+  },
+  {
+    "name": "num_trips",
+    "type": "NUMERIC",
+    "mode": "NULLABLE",
+    "description": "number of trips"
+  }
+]

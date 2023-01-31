@@ -1,0 +1,8 @@
+[
+  {
+    "name": "year",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "year"
+  }
+]
